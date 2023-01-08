@@ -1,4 +1,4 @@
-Postman.
+Postman home work
 HW_1
 
 Создать запросы в Postman.
