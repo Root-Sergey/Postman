@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 Postman home work
+=======
+Postman HW_1
+>>>>>>> eb51e2b5ca92217b244e677221de397ef6687302
 HW_1
 
-Создать запросы в Postman.
+Создать запросы в Postman
 
 Protocol: http
 IP: 162.55.220.72
